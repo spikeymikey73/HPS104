@@ -1,0 +1,8 @@
+---
+title: "Reading List"
+---
+
+| Title                                             | Type    | Item Link                                             
+|:--------------------------------------------------|:------:|:-------------------------------------------------------------------------------------:|
+| HBS110 Health Behaviour (eBook)                   | Textbook    | [Book Title](http://resourcelists.lib.deakin.edu.au/items/11EE4B12-C4F7-693E-044C-4D482CB4B227.html) |
+| Chapter 8: Dealing with negative patient feedback | Chapter | [Book Title](http://resourcelists.lib.deakin.edu.au/items/D693C280-E15C-A807-9792-3FAAB9280D77.html) |
